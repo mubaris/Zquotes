@@ -1,0 +1,410 @@
+{
+  "quotes": [
+    {
+      "data": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+      "author": "Helen Keller",
+      "categories": [
+        "Inspiration"
+      ]
+    },
+    {
+    	"data": "Don't cry because it's over, smile because it happened.",
+    	"author": "Dr. Seuss",
+    	"categories": [
+    		"Experience",
+    		"Joy",
+    		"Happiness",
+    		"Life",
+    		"Smile",
+    		"Optimism"
+    	]
+    },
+    {
+    	"data": "I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.",
+    	"author": "Marilyn Monroe",
+    	"categories": [
+    		"Life",
+    		"Love",
+    		"Mistake",
+    		"Truth"
+    	]
+    },
+    {
+    	"data": "Be yourself; everyone else is already taken.",
+    	"author": "Oscar Wilde",
+    	"categories": [
+    		"Honesty",
+    		"Inspiration"
+    	]
+    },
+    {
+    	"data": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
+    	"author": "Albert Einstein",
+    	"categories": [
+    		"Humor",
+    		"Infinity",
+    		"Philosophy",
+    		"Science",
+    		"Universe"
+    	]
+    },
+    {
+      "data": "Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.",
+      "author": "Bernard M. Baruch",
+      "categories": [
+        "Confidence"
+        ]
+    },
+    {
+      "data": "So many books, so little time.",
+      "author": "Frank Zappa",
+      "categories": [
+        "Books",
+        "Humor"
+        ]
+    },
+    {
+      "data": "A room without books is like a body without a soul.",
+      "author": "Marcus Tullius Cicero",
+      "categories": [
+        "Books",
+        "Soul"
+        ]
+    },
+    {
+      "data": "You know you're in love when you can't fall asleep because reality is finally better than your dreams.",
+      "author": "Dr. Seuss",
+      "categories": [
+        "Dreams",
+        "Love",
+        "Reality"
+        ]
+    },
+    {
+      "data": "You only live once, but if you do it right, once is enough.",
+      "author": "Mae West",
+      "categories": [
+        "Life",
+        "Humor"
+        ]
+    },
+    {
+      "data": "Be the change that you wish to see in the world.",
+      "author": "Mahatma Gandhi",
+      "categories": [
+        "Action",
+        "Change",
+        "Inspiration",
+        "Philosophy"
+        ]
+    },
+    {
+      "data": "In three words I can sum up everything I've learned about life: it goes on.",
+      "author": "Robert Frost",
+      "categories": [
+        "Life"
+        ]
+    },
+    {
+      "data": "If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals.",
+      "author": "J.K. Rowling",
+      "categories": [
+        "Humanity",
+        "Equality"
+        ]
+    },
+    {
+      "data": "No one can make you feel inferior without your consent.",
+      "author": "Eleanor Roosevelt",
+      "categories": [
+        "Confidence",
+        "Wisdom",
+        "Inspirarion"
+        ]
+    },
+    {
+      "data": "If you tell the truth, you don't have to remember anything.",
+      "author": "Mark Twain",
+      "categories": [
+        "Lies",
+        "Memory",
+        "Truth"
+        ]
+    },
+    {
+      "data": "A friend is someone who knows all about you and still loves you.",
+      "author": "Elbert Hubbard",
+      "categories": [
+        "Friendship",
+        "Knowledge",
+        "Love"
+        ]
+    },
+    {
+      "data": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+      "author": "Mahatma Gandhi",
+      "categories": [
+        "Education",
+        "Inspiration",
+        "Learning"
+        ]
+    },
+    {
+      "data": "Without music, life would be a mistake.",
+      "author": "Friedrich Nietzsche",
+      "categories": [
+        "Inspiration",
+        "Music",
+        "Philosophy"
+        ]
+    },
+    {
+      "data": "Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.",
+      "author": "Martin Luther King Jr.",
+      "categories": [
+        "Darkness",
+        "Inspiration",
+        "Love",
+        "Peace"
+      ]
+    },
+    {
+      "data": "We accept the love we think we deserve.",
+      "author": "Stephen Chbosky",
+      "categories": [
+        "Inspiration",
+        "Love"
+      ]
+    },
+    {
+      "data": "Imitation is suicide.",
+      "author": "Ralph Waldo Emerson",
+      "categories": [
+        "Imitation",
+        "Life"
+      ]
+    },
+    {
+      "data": "Do your own thing on your own terms and get what you came here for.",
+      "author": "Oliver James",
+      "categories": [
+        "Life"
+      ]
+    },
+    {
+      "data": "People are like bicycles. They can keep their balance only as long as they keep moving.",
+      "author": "Albert Einstein",
+      "categories": [
+        "Life"
+      ]
+    },
+    {
+      "data": "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution.",
+      "author": "Albert Einstein",
+      "categories": [
+        "Imagination",
+        "Knowledge"
+      ]
+    },
+    {
+      "data": "Any man who reads too much and uses his own brain too little falls into lazy habits of thinking.",
+      "author": "Albert Einstein",
+      "categories": [
+        "Thinking",
+        "Reading"
+      ]
+    },
+    {
+      "data": "If there is no price to be paid, it is also not of value.",
+      "author": "Albert Einstein",
+      "categories": [
+        "Value"
+      ]
+    },
+    {
+      "data": "Peace cannot be kept by force; it can only be achieved by understanding.",
+      "author": "Albert Einstein",
+      "categories": [
+        "Peace"
+      ]
+    },
+    {
+      "data": "If you want to live a happy life, tie it to a goal, not to people or objects.",
+      "author": "Albert Einstein",
+      "categories": [
+        "Life",
+        "Happiness",
+        "Goal"
+      ]
+    },
+    {
+      "data": "The high destiny of the individual is to serve rather than to rule.",
+      "author": "Albert Einstein",
+      "categories": [
+        "Destiny"
+      ]
+    },
+    {
+      "data": "The only source of knowledge is experience.",
+      "author": "Albert Einstein",
+      "categories": [
+        "Knowledge",
+        "Experience"
+      ]
+    },
+    {
+      "data": "I have no special talent. I am only passionately curious.",
+      "author": "Albert Einstein",
+      "categories": [
+        "Talent",
+        "Passion",
+        "Curiosity"
+      ]
+    },
+    {
+      "data": "Anyone who has ever made anything of importance was disciplined.",
+      "author": "Andrew Hendrixson",
+      "categories": [
+        "Discipline"
+      ]
+    },
+    {
+      "data": "Creativity is intelligence having fun.",
+      "author": "Albert Einstein",
+      "categories": [
+        "Creativity",
+        "Intelligence",
+        "Fun"
+      ]
+    },
+    {
+      "data": "Optimism is the one quality more associated with success and happiness than any other.",
+      "author": "Brian Tracy",
+      "categories": [
+        "Optimism",
+        "Success",
+        "Happiness"
+      ]
+    },
+    {
+      "data": "Always keep your eyes open. Keep watching. Because whatever you see can inspire you.",
+      "author": "Grace Coddington",
+      "categories": [
+        "Inspiration",
+        "Observation"
+      ]
+    },
+    {
+      "data": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+      "author": "Henry David Thoreau",
+      "categories": [
+        "Goal"
+      ]
+    },
+    {
+      "data": "I destroy my enemies when I make them my friends.",
+      "author": "Abraham Lincoln",
+      "categories": [
+        "Friendship"
+      ]
+    },
+    {
+      "data": "Don’t live the same year 75 times and call it a life.",
+      "author": "Robin Sharma",
+      "categories": [
+        "Life"
+      ]
+    },
+    {
+      "data": "You cannot save people, you can just love them.",
+      "author": "Anaïs Nin",
+      "categories": [
+        "Love"
+      ]
+    },
+    {
+      "data": "It wasn’t raining when Noah built the ark.",
+      "author": "Howard Ruff",
+      "categories": [
+        "Inspiration"
+      ]
+    },
+    {
+      "data": "There is no way to happiness. Happiness is the way.",
+      "author": "Thich Nhat Hanh",
+      "categories": [
+        "Happiness"
+      ]
+    },
+    {
+      "data": "Champions keep playing until they get it right.",
+      "author": "Billie Jean King",
+      "categories": [
+        "Champion",
+        "Inspiration"
+      ]
+    },
+    {
+      "data": "You will succeed because most people are lazy.",
+      "author": "Shahir Zag",
+      "categories": [
+        "Life"
+      ]
+    },
+    {
+      "data": "Genius is 1% inspiration, 99% perspiration.",
+      "author": "Thomas Edison",
+      "categories": [
+        "Inspiration"
+      ]
+    },
+    {
+      "data": "Do it with passion, or not at all.",
+      "author": "Rosa Nouchette Carey",
+      "categories": [
+        "Passion"
+      ]
+    },
+    {
+      "data": "The grass is greener where you water it.",
+      "author": "Neil Barringham",
+      "categories": [
+        "Inspiration"
+      ]
+    },
+    {
+      "data": "Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.",
+      "author": "Earl Nightingale",
+      "categories": [
+        "Time",
+        "Inspiration"
+      ]
+    },
+    {
+      "data": "Sometimes you win, sometimes you learn.",
+      "author": "John Maxwell",
+      "categories": [
+        "Learning",
+        "Inspiration"
+      ]
+    },
+    {
+      "data": "Never apologize for having high standards. People who really want to be in your life will rise up to meet them.",
+      "author": "Ziad K. Abdelnour",
+      "categories": [
+        "Life",
+        "Inspiration"
+      ]
+    },
+    {
+      "data": "I never dream of success. I worked for it.",
+      "author": "Estee Lauder",
+      "categories": [
+        "Dreams",
+        "Success",
+        "Life",
+        "Inspiration"
+      ]
+    }
+  ]
+}
