@@ -405,6 +405,15 @@
         "Life",
         "Inspiration"
       ]
+    },
+    {
+      "data": "Software is like sex: it's better when it's free.",
+      "author": "Linus Torvalds",
+      "categories": [
+        "Software",
+        "Open Source",
+        "Freeware"
+        ]
     }
   ]
 }
